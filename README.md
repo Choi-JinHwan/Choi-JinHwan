@@ -3,8 +3,6 @@
 
 [![Choi-JinHwan's github stats](https://github-readme-stats.vercel.app/api?username=Choi-JinHwan)](https://github.com/anuraghazra/github-readme-stats)
 
-
-private repo에 커밋을 더욱 많이 했으니 커밋 양은 아래 잔디를 확인해주세요!
 <!--
 **Choi-JinHwan/Choi-JinHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
