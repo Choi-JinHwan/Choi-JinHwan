@@ -1,5 +1,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://zzsza.github.io/)](https://www.notion.so/lightblog/Light-blog-1e6076321689408d96f8340c4a8b97a8)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinhwan0515@gmail.com)](mailto:jinhwan0515@gmail.com)
+
+
 [![Choi-JinHwan's github stats](https://github-readme-stats.vercel.app/api?username=Choi-JinHwan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
